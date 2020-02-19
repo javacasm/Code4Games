@@ -13,3 +13,5 @@
 [Xquest](https://www.freegameempire.com/games/XQuest)
 
 [Code the clasics](https://github.com/Wireframe-Magazine/Code-the-Classics)
+
+[Curso: aprende python con 5 juegos](https://www.freecodecamp.org/news/learn-python-by-building-5-games/amp/)
